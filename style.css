@@ -55,7 +55,7 @@ nav a {
 /* HERO SECTION */
 .hero {
     height: 85vh;
-    background: url("https://i.imgur.com/ZaYV5wD.jpg") center/cover no-repeat;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -144,3 +144,4 @@ footer {
     background: #ff4d4d;
     color: white;
 }
+
